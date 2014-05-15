@@ -1,7 +1,3 @@
-pod "tentopod", :path => "../"
+platform :ios
 
-target "Demo" do
-end
-
-target "DemoTests" do
-end
+pod 'tentopod', :path => "/Users/10to1/documents/workspace/tentopod"
