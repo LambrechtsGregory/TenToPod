@@ -24,3 +24,8 @@ Gregory Lambrechts, lambrechts_gregory@hotmail.com
 
 tentopod is available under the MIT license. See the LICENSE file for more info.
 
+=======
+TenToPod
+========
+
+Development version of the iOS library for the 10topush service.
