@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Gregory Lambrechts" => "lambrechts_gregory@hotmail.com" }
   s.requires_arc     = true
-  s.source_files     = 'Classes/tentolib/tentolib/*.{h,m}'
+  s.source_files     = 'tentolib/tentolib/*.{h,m}'
   s.dependency 'SVHTTPRequest'
 end
