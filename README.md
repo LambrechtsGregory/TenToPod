@@ -5,6 +5,8 @@
 
 ## Requirements
 
+Before you can start using the push service you'll have to register your App at APNS first. You'll get a guide on how to do this with your 10to1 app data. 
+
 ## Installation
 
 tentopod is available through [CocoaPods](http://cocoapods.org), to install
@@ -16,6 +18,7 @@ To install run:
 	pod install
 
 ## Usage
+
 Before you can use the 10topod library in your Xcode project, you first have to import the public header. Place the following line between your imports in your AppDelegate.m file:
 
 	#import <TTOTenToPush.h>
